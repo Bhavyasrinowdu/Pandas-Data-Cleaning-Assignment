@@ -37,7 +37,7 @@ The dataset contains exercise-related information such as:
 
 ## Files
 
-* `data.csv` — Original dataset
-* `cleaned_data.csv` — Cleaned dataset
-* `skill_nexis_week3.py` — Python code used for cleaning and visualization
-* `README.md` — Project documentation
+- `data.csv` — Original dataset
+- `cleaned_data.csv` — Cleaned dataset
+- `skill_nexis_week_3.ipynb` — Jupyter Notebook containing the Python code, data cleaning, and visualizations
+- `README.md` — Project documentation
